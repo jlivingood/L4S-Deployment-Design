@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "L4S Deployment Design Recommendations"
+abbrev: "L4S Deployment Design"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
