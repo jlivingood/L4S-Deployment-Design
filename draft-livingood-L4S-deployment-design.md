@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Transport"
+workgroup: "Low Latency Low Loss Scalable throughput"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Low Latency Low Loss Scalable throughput"
+  type: "Working Group"
+  mail: "tcpprague@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/tcpprague/"
+  github: "jlivingood/L4S-Deployment-Design"
+  latest: "https://jlivingood.github.io/L4S-Deployment-Design/draft-livingood-L4S-deployment-design.html"
 
 author:
  -
